@@ -310,7 +310,7 @@ ul.social-icons {
   padding-left: 0;
   list-style: none;
 
-  li {
+  li:not(.c-li-exept) {
     padding-top: $spacing-unit / 2;
     padding-bottom: $spacing-unit / 2;
     border-bottom: 1px solid;

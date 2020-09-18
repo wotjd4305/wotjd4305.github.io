@@ -1,6 +1,6 @@
 ---
 layout: archive-taxonomies
 type: tags
-title: Tags
+title: 사용기술
 permalink: /tags/
 ---

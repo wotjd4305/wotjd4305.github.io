@@ -101,7 +101,7 @@ table {
 }
 
 .post-list {
-  li {
+  li:not(.c-li-exept) {
     border-bottom-color: $border-color-light;
   }
 }
