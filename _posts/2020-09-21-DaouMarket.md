@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Prolog
+title: DaouMarket
 tags: [Spring Boot, Vue.js, Jenkins, BootStrap, JPA, Docker,MariaDB, EC2, MVVM, Github]
 ---
 ### 프로젝트 및 경험을 쉽게 정리하고, 해시태그를 통한 직관적인 필터링을 목표로 한 프로젝트.
