@@ -15,8 +15,6 @@ tags: [Spring Boot, Vue.js, Jenkins, BootStrap, JPA, Docker,MariaDB, EC2, MVVM, 
 # 구성
  - BootStrap을 통한 전체적인 구성.
   제작에 유용한 CSS를 가지고 있는 오픈소스.
-  *사용이유*? 편의성, 반응형을 지원하고 다른개발자들과의 빠른 캐치업
-  *단점?* [1]정형화된 스타일, [2]필요없는 코딩 로딩 
  - Vuex라는 상태관리 패턴을 사용
   각 비즈니스 별로 store 파일을 생성, 객체의 상태와 변이를 중앙에서 관리
  - Style Scope 사용
