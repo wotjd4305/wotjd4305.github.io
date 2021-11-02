@@ -43,7 +43,6 @@ permalink: /aboutme/
                 </ul>
             </div>
         </li>
-  </li>
           <li>
             <div class="c-title">
                 <img class="c-logo" src="/assets/css/img/icons8-company-50.png" alt>경력사항
