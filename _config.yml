@@ -3,6 +3,7 @@ description: 포트폴리오 용 웹페이지 입니다.
 author: JaeSeong Park
 avatar: /img.png
 email: wotjd4305@naver.com
+blog: https://meorimori.tistory.com/
 
 plugins:
   - jekyll-seo-tag

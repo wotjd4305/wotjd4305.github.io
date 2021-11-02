@@ -23,6 +23,12 @@
         <a class="contact-info u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
       </li>
     {%- endif %}
+    {% if site.blog -%}
+    <li>
+      <i class="sidebar-icon fas fa-home"></i>
+      <a class="contact-info" href="{{ site.blog }}">{{ site.blog }}</a>
+    </li>
+    {%- endif %}
     {% if site.location -%}
       <li>
         <i class="sidebar-icon fas fa-location-arrow"></i>
