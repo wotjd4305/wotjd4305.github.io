@@ -43,6 +43,27 @@ permalink: /aboutme/
                 </ul>
             </div>
         </li>
+  </li>
+          <li>
+            <div class="c-title">
+                <img class="c-logo" src="/assets/css/img/icons8-company-50.png" alt>경력사항
+            </div>
+            <div class="c-period">
+                2020.10 ~ 현재
+            </div>
+            <div class="c-div">
+                 다우기술(플랫폼 개발팀)
+            </div>
+            <div class="c-contents">
+                <ul>
+                    <li class="c-li-exept">콜믹스, 비즈콜믹스 담당(개발 및 관리)</li>
+                    <li class="c-li-exept">배달 대행 sub모듈 개발</li>
+                    <li class="c-li-exept">주 사용 언어 : JAVA, javaScript, Jquery </li>
+                    <li class="c-li-exept">tool : SpringBoot, jsp, Struts2 </li>
+                    <li class="c-li-exept">DB : Oracle </li>
+                </ul>
+            </div>
+        </li>
     </div>
 
 <style>
